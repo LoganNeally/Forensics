@@ -1,2 +1,3 @@
 # tempate-skeleton3-sveltekit-tauri2
-wild build
+
+This is a template repo to help get started with Skeleton v3, with Tauri for desktop, and Sveltekit for server + frontend
