@@ -36,6 +36,7 @@
 	},
 	"dependencies": {
 		"@lucide/svelte": "^0.485.0",
+		"csv2table": "^0.1.2",
 		"lucide": "^0.485.0",
 		"lucide-svelte": "^0.485.0"
 	}
